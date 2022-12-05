@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=osmanmuratgull)
 
 - 📌 I'm working on 
-  - 📌 HTML,CSS,C#,Python
+  - 📌 HTML,CSS,C#
 
 - 🌱 I'm currently learning 
-  - 🌱 Golang,JS
+  - 🌱 Golang,JS,Python
 
 - 📫 How to reach me:
   - 📫 osmanmuratgull@gmail.com
