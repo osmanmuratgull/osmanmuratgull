@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=osmanmuratgull)
 
 - 📌 I'm working on 
-  - 📌 HTML,CSS,C#,Python
+  - 📌 HTML,CSS,C#,Python,
 
 - 🌱 I'm currently learning 
   - 🌱 Golang,JS
