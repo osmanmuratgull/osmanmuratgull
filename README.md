@@ -2,9 +2,12 @@
   <h3>IT Specialist · Systems & Infrastructure · Cybersecurity</h3>  <p>
     I work with Linux systems, server infrastructure, hosting environments, and automation.<br/>
     I enjoy building practical tools and exploring reliable, secure ways to run services.
+	  
   </p>  <a href="mailto:osmanmuratgull@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
 <a href="https://github.com/osmanmuratgull"><img src="https://img.shields.io/badge/GitHub-osmanmuratgull-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-</div>🧭 About Me
+</div>
+🧭 About Me
 	
 💼 Role	IT Specialist
 🖥️ Focus	Systems administration, infrastructure, hosting, and automation
