@@ -19,7 +19,7 @@ I enjoy building practical tools and exploring reliable, secure ways to run serv
 
 ## 👨‍💻 About Me
 
-- 💼 **Role:** IT Specialist
+- 💼 **Role:** IT Specialist / Cyber Security 
 - 🖥️ **Focus:** Systems Administration, Infrastructure & Hosting
 - 🔐 **Interests:** Cybersecurity, DevOps & AI-powered tools
 - 🚀 **Currently:** Infrastructure reliability and automation
