@@ -16,16 +16,27 @@
 
 
 🛠️ Tech Stack
-<div align="center">Languages
+<div align="center">
+	Languages
+	
 <img src="https://skillicons.dev/icons?i=cs,python,go,js,ts&theme=dark" alt="C Sharp, Python, Go, JavaScript, TypeScript" />
+
 Systems & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,docker,bash,nginx,git&theme=dark" alt="Linux, Docker, Bash, Nginx, Git" /></div>📊 GitHub Analytics
+
+<img src="https://skillicons.dev/icons?i=linux,docker,bash,nginx,git&theme=dark" alt="Linux, Docker, Bash, Nginx, Git" /></div>
+📊 GitHub Analytics
 <div align="center"><a href="https://github.com/osmanmuratgull">
+	
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=osmanmuratgull&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub stats" />
 </a>
+
 <a href="https://github.com/osmanmuratgull">
+	
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanmuratgull&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
 </a>
+
 <img src="https://streak-stats.demolab.com?user=osmanmuratgull&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" /></div><div align="center">
+
   <sub>Building reliable systems · Automating the repetitive · Learning every day</sub>
+  
 </div>
