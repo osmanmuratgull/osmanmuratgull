@@ -41,20 +41,19 @@ I enjoy building practical tools and exploring reliable, secure ways to run serv
 </div>
 
 ---
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=osmanmuratgull&show_icons=true&hide_border=true&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osmanmuratgull&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanmuratgull&layout=compact&hide_border=true&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osmanmuratgull&theme=github_dark" width="49%" alt="Repositories per language" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=osmanmuratgull&hide_border=true&theme=github-dark-blue" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osmanmuratgull&theme=github_dark" width="49%" alt="GitHub statistics" />
 
 </div>
 
