@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=osmanmuratgull&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 
-# Hi, I'm Osman Murat 👋
+# Hi, I'm Osman Muratgül 👋
 
 ### IT Specialist | Systems & Infrastructure | Cybersecurity
 
